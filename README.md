@@ -34,6 +34,7 @@ Sample Output: 24A0-R74K
 Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
 <br>
+
 <b>File</b>:TextExtractionFromPDF_CopartChallenge.R <br>
 
 <b>Langauge Used </b>: R<br>
