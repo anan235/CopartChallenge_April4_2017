@@ -1,4 +1,4 @@
-# Copart Coding competiton
+# Copart coding competiton
 
 Group: Ankita Patil & Lakshmi Sharma
 
