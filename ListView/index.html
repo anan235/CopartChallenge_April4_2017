@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> List View </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    </head>
+    <body>
+        <div ng-app="listViewApp" ng-controller="listCtrl" class="container">
+            <br>
+            <h1>Recipe Name: {{recipe.name}}</h1>
+            <br>
+            <h2>Ingredients</h2>
+            <ul class="list-group">
+                <div ng-repeat="ingredient in recipe.ingredients.ingredients">
+                    <div ng-if="ingredient.name">
+                        <ingredient data="ingredient"></ingredient> 
+                    </div>
+                    <div ng-if="!ingredient.name">
+                        <li class="list-group-item">
+                            <div class="row">
+                                <div class="col-sm-1">Options</div>
+                                <div class="col-sm-9">
+                                    <ul class="list-group">
+                                        <div ng-repeat="subIng in ingredient">
+                                            <ingredient data="subIng"></ingredient> 
+                                        </div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </div>
+                </div>
+            </ul>
+        </div>
+        </div>
+        <script src="listView.js"></script>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+    {
+        "name": "Chocolate Iced Cream",
+        "ingredients": [
+          {
+            "name": "Chocolate Block",
+            "quantity": 5,
+            "units": "oz"
+          },
+            {
+            "option1": {
+              "name": "Whole Milk",
+              "quantity": 1,
+              "units": "quart"
+            },
+            "option2": {
+              "name": "Cream",
+              "quantity": 0.5,
+              "unit": "quart"
+            }
+          },
+          {
+            "name": "Finely Grated Chocolate Drink",
+            "quantity": 1.5,
+            "units": "oz"
+          },
+          {
+            "name": "Whole Milk",
+            "quantity": 1,
+            "units": "quart"
+          },
+          {
+            "name": "Large eggs",
+            "quantity": 6
+          },
+          {
+            "option1": {
+              "name": "Vanilla Bean",
+              "quantity": 1
+            },
+            "option2": {
+              "name": "Vanilla Extract",
+              "quantity": 1,
+              "unit": "tsp"
+            }
+          },
+          {
+            "name": "Sugar",
+            "quantity": 0.5,
+            "units": "cup"
+          }]
+      }
