@@ -35,7 +35,9 @@ Use any open source tool extract the Vehicle ID Number, Plate Number & Certifica
 
 <br>
 <b>File</b>:TextExtractionFromPDF_CopartChallenge.R <br>
+
 <b>Langauge Used </b>: R<br>
+
 <b>Open source library used </b>: pdftools
 
 <hr>
