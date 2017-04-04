@@ -3,6 +3,8 @@
 Group: Ankita Patil & Lakshmi Sharma
 The following problems have been solved.
 
+<hr>
+
 <b>Problem</b>: Convert String to Integer (Simple) (10 points) <br>
 Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = “1234” - > Integer output=1234.
 
