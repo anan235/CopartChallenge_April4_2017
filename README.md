@@ -11,7 +11,7 @@
 
 <hr>
 
-<b>Problem</b>: License Keys (Simple) (10 points)
+<b>Problem</b>: License Keys (Simple) (10 points)<br>
 We are given a string S consisting of N characters and an integer K. The string represents software license key which we would like to format. The string is composed of alphanumeric characters and dashes. The dashes split the string into groups (i.e if there are M dashes, the string is split into M+1 groups). The dashes in the string are possibly misplaced.
 
 We want each group of characters to be of the length K (except for possibly the first group which could be shorter). All lowercase letters must be converted to uppercase.
