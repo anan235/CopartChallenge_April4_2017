@@ -2,7 +2,8 @@
 
 <hr>
 
-<b>Problem</b>: Convert String to Integer (Simple) (10 points)
+<b>Problem</b>: Convert String to Integer (Simple) (10 points) <br>
+Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = “1234” - > Integer output=1234.
 
 <b>File</b>: NumberOperations.java
 
