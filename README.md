@@ -29,6 +29,15 @@ Sample Output: 24A0-R74K
 
 <hr>
 
+<hr>
+<b>Problem</b>: Extract Text from PDF/image (20 Points) <b>Incomplete</b><br>
+Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
+<br>
+<b>Langauge Used </b>: R
+<b>Open source library used </b>: pdftool
+<hr>
+
+
 
 
 
