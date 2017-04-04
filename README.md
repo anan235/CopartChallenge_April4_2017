@@ -7,8 +7,6 @@ Without using any Integer functions like parseInt/valueOf convert the String to 
 
 <b>File</b>: NumberOperations.java
 
-<hr>
-
 
 <hr>
 
@@ -28,8 +26,6 @@ Sample Output: 24A0-R74K
 <b>File</b>: LicenseKeySolution.java
 
 <hr>
-
-<hr>
 <b>Problem</b>: Extract Text from PDF/image (20 Points) <b>Incomplete</b><br>
 Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
@@ -43,9 +39,14 @@ Use any open source tool extract the Vehicle ID Number, Plate Number & Certifica
 
 <hr>
 
+<b>Problem</b>:JS Library/framework* based - Nested ListView (Simple) (10 points)<br>
+JS based ListView - Must have multiple Nested list views - (eg) Countries, States, Cities.
+1. Single JSON response vs Multiple JSON response - Showcase both.
+2. Reuse components and reuse data from cache/store [*] - Use React or AngularJS or ember or backbone or one of the modern JS frameworks/libraries. Do not use JQuery or ExtJS
+<br>
 
+<b>Folder</b>:ListView <br>
 
-
-
+<hr>
 
 
