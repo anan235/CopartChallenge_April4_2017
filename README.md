@@ -8,3 +8,17 @@
 
 <hr>
 
+
+<hr>
+
+<b>Problem</b>: License Keys (Simple) (10 points)
+
+<b>File</b>: LicenseKeySolution.java
+
+<hr>
+
+
+
+
+
+
